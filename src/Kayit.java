@@ -9,11 +9,6 @@ public class Kayit {
 
     //************************************************************************
 
-    public void ekle(Game game2){
-
-        list.add(game2);
-
-    }
 
     public void puanEkle(Game game) {
         list.add(game);
